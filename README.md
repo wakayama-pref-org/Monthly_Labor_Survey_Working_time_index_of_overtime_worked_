@@ -16,7 +16,7 @@
 　・賃金改定等、企業の労働関係処理の資料として使われています。
 　・日本の労働事情の海外への紹介、国連への報告などにも使われています。
 
-http://www.pref.wakayama.lg.jp/prefg/020300/jikeiretu/kinro/koumokubetu/gai jikan.xls
+http://www.pref.wakayama.lg.jp/prefg/020300/jikeiretu/kinro/koumokubetu/gai jikan.xlsx
 
 ###（GitHubアカウント「Wakayama Prefecture」について）
 　「Wakayama Prefecture」は、オープンデータのニーズ把握や、技術者の方等との協働した地域課題の解決等のために和歌山県情報政策課が運用しているものです。
